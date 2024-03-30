@@ -1,2 +1,2 @@
-# My-First-Html-Codding
-A blog page I wrote in HTML upon the request of my HTML teacher.
+# İlk HTML kodlamam
+HTML hocamın verdiği ödev üzerine yazdığım ilk blog sayfası
